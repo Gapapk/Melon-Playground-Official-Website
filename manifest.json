@@ -1,0 +1,49 @@
+{
+  "name": "Melon Sandbox",
+  "short_name": "Melon Sandbox",
+  "description": "Melon Sandbox — the official ragdoll sandbox game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#424242",
+  "theme_color": "#72A259",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-48.png",
+      "sizes": "48x48",
+      "type": "icon"
+    },
+    {
+      "src": "/icon-64.png",
+      "sizes": "64x64",
+      "type": "icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "icon"
+    }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground",
+      "id": "com.studio27.MelonPlayground"
+    },
+    {
+      "platform": "ios",
+      "url": "https://apps.apple.com/by/app/melon-sandbox/id1610874732",
+      "id": "com.TwentySeven.MelonPlayground"
+    },
+    {
+      "platform": "yandex",
+      "url": "https://yandex.ru/games/app/260481",
+      "id": "260481"
+    }
+  ]
+}
